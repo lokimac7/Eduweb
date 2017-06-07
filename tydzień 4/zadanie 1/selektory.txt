@@ -1,0 +1,5 @@
+$('div.grid.grid-12');
+$('nav a[href^="http"]');
+$("input:radio, input:checkbox").not(":checked");
+$('div#text p:empty').first();
+$('.pagination-item:not(span)');
